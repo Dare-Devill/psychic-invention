@@ -4,12 +4,7 @@
 
 An Open-Source Music Player App for all your needs!
 
-## Download
 
-
-[<img src="https://img.shields.io/badge/Drive-Download-blue"
-     alt="Download from GitHub"
-     height="20">](https://drive.google.com/file/d/1Qi8-OHyH-HGdsySW4SziA_0gvfhPhVtI/view?usp=drivesdk)
 
 
 ## Features
